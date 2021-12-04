@@ -1,7 +1,7 @@
 ### Best Smart Voice Chat Music Bot For Telegram Groups ...
 
 
-<p align="center"><a href="https://t.me/adityahalder"><img src="https://te.legra.ph/file/c6e1041c6c9a12913f57a.png"></a></p>
+<p align="center"><a href="https://t.me/adityahalder"><img src="https://telegra.ph/file/8764d2642f9ca147c46a2.png"></a></p>
 
 
 
@@ -25,4 +25,4 @@
 
 ### Copy Pasters You Can Copy This But Must Give Credits ...
 
-#### Main Developer = [Aditya](https://t.me/AdityaHalder)
+#### Main Developer = [Aditya](https://t.me/Its_Time_To_Show)
